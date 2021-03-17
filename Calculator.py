@@ -44,7 +44,7 @@ if __name__ == "__main__":
 
     expression_field = Entry(gui, textvariable=equation)
 
-    # g
+    
     expression_field.grid(columnspan=4, ipadx=70)
 
     equation.set('enter your expression')
